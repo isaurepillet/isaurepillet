@@ -1,36 +1,32 @@
 # Hi, I'm Isaure 👋
 
-I am a final-year engineering student at ENSAE Paris, completing a double degree with the Master's in Data and Economics for Public Policy at École Polytechnique and Télécom Paris.
+I am a final-year engineering student at **ENSAE Paris**, completing a double degree with the Master's in **Data and Economics for Public Policy** at **École Polytechnique and Télécom Paris**.
 
-My interests lie at the intersection of **economics, econometrics and data science**, with a particular focus on applied quantitative research, macroeconomics and public policy.
+My interests lie at the intersection of **economics, econometrics and data science**, with a focus on quantitative research, macroeconomics, forecasting and public policy.
 
-## Research interests
+## Selected projects
 
-- Applied econometrics and causal inference
-- Macroeconomics and monetary economics
-- Time-series analysis and forecasting
-- Public policy evaluation
-- Firm-level and administrative data
-- Machine learning for economic applications
+### [French Industrial Production — Time-Series Modelling & Forecasting](https://github.com/isaurepillet/industrial-production-time-series)
+Time-series analysis of monthly INSEE industrial production data in R: stationarity testing, ARMA model selection, residual diagnostics and short-term forecasting.
+
+### [Climate Policy & Housing Prices](https://github.com/isaurepillet/STATAPP)
+Applied econometrics project conducted with **Forvis Mazars** on the impact of the French Climate and Resilience Law on housing prices, combining real-estate transaction and energy-performance data.
+
+### [Women in Economics — Research Data Collection](https://github.com/isaurepillet/algo-webscrapping-women-in-economics)
+Research-assistant project on women's representation and career patterns in academic economics, using Python for web scraping, data cleaning and entity matching.
+
+### [Machine Learning for French Municipal Revenues](https://github.com/isaurepillet/Projet-Machine-Learning)
+Statistical-learning project comparing linear and ensemble methods for predicting French municipal revenues from fiscal and socio-economic data.
 
 ## Methods & tools
 
-**Programming:** Python · R · Stata · SAS · SQL
-
-**Econometrics:** Panel data · Fixed effects · Difference-in-Differences · Logit/Probit · Causal inference
-
-**Time series:** ARMA models · Stationarity analysis · Forecasting · Model diagnostics
-
-**Data science:** Machine learning · Statistical modelling · Web scraping · Entity matching
+**Programming:** Python · R · Stata · SAS · SQL  
+**Econometrics:** Panel data · Fixed effects · Difference-in-Differences · Logit/Probit · Causal inference  
+**Time series:** ARMA · Stationarity analysis · Forecasting · Model diagnostics  
+**Data science:** Machine learning · Web scraping · Entity matching · Data visualisation
 
 ## Research experience
 
 I have worked on quantitative research projects at the **Bank of France, CREST, Mines Paris – PSL, the French Court of Auditors and the Institut des Politiques Publiques (IPP)**.
 
-Some of my research projects cannot be made publicly available because they rely on confidential or restricted-access administrative microdata, including data accessed through the **CASD (Centre d'accès sécurisé aux données)** and confidential firm-level data used during my research internship at the Bank of France.
-
-Where permitted, this GitHub presents selected academic and research projects, code and reproducible empirical analyses.
-
-## Selected projects
-
-Repositories and selected projects are available below.
+Some of my research work relies on confidential or restricted-access administrative microdata and therefore cannot be made public. This GitHub contains selected academic projects and reproducible analyses that can be shared openly.
