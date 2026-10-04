@@ -9,10 +9,10 @@ My interests lie at the intersection of **economics, econometrics and data scien
 ### [French Industrial Production — Time-Series Modelling & Forecasting](https://github.com/isaurepillet/industrial-production-time-series)
 Time-series analysis of monthly INSEE industrial production data in R: stationarity testing, ARMA model selection, residual diagnostics and short-term forecasting.
 
-### [Climate Policy & Housing Prices](https://github.com/isaurepillet/STATAPP)
+### [Climate Policy & Housing Prices](https://github.com/isaurepillet/climate-policy-housing-prices)
 Applied econometrics project conducted with **Forvis Mazars** on the impact of the French Climate and Resilience Law on housing prices, combining real-estate transaction and energy-performance data.
 
-### [Women in Economics — Research Data Collection](https://github.com/isaurepillet/algo-webscrapping-women-in-economics)
+### [Women in Economics — Research Data Collection](https://github.com/isaurepillet/women-in-economics-research)
 Research-assistant project on women's representation and career patterns in academic economics, using Python for web scraping, data cleaning and entity matching.
 
 ### [Machine Learning for French Municipal Revenues](https://github.com/isaurepillet/Projet-Machine-Learning)
