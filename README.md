@@ -33,6 +33,4 @@ Statistical-learning project comparing linear and ensemble methods for predictin
 
 ## Research experience
 
-I have worked on quantitative research projects at the **Bank of France, CREST, Mines Paris – PSL, the French Court of Auditors and the Institut des Politiques Publiques (IPP)**.
-
-Some of my research work relies on confidential or restricted-access administrative microdata and therefore cannot be made public. This GitHub contains selected academic and collaborative projects, alongside reproducible analyses that can be shared openly.
+Some of my research work, including projects conducted at the Bank of France and the French Court of Auditors, relied on confidential administrative microdata accessed through secure research environments (CASD) and therefore cannot be made public. This GitHub contains selected academic and collaborative projects that can be shared openly.
