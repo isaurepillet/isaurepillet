@@ -15,10 +15,10 @@ Applied econometrics project conducted with **Forvis Mazars** on the impact of t
 ### [Women in Economics — Research Data Collection](https://github.com/isaurepillet/women-in-economics-research)
 Research-assistant project on women's representation and career patterns in academic economics, using Python for web scraping, data cleaning and entity matching.
 
-### [Research Networks in Economics — Data Analysis & Visualisation](https://github.com/isaurepillet/Telecom-DataAnalysis_Economics)
+### [Research Networks in Economics — Data Analysis & Visualisation](https://github.com/isaurepillet/research-networks-economics)
 Collaborative data-analysis project studying research networks in economics using RePEc data, author affiliations and JEL classifications, with network analysis, clustering and data visualisation.
 
-### [Rent Control & Housing Prices — Policy Evaluation](https://github.com/isaurepillet/projet-python-2A)
+### [Rent Control & Housing Prices — Policy Evaluation](https://github.com/isaurepillet/rent-control-housing-prices)
 Collaborative ENSAE project evaluating the effect of rent-control policies on property prices using French DVF and INSEE data and a Difference-in-Differences approach.
 
 ### [Machine Learning for French Municipal Revenues](https://github.com/isaurepillet/Projet-Machine-Learning)
